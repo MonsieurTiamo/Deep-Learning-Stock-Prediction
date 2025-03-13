@@ -8,6 +8,6 @@ The main steps include: continuous feature discretization - cfs and k mutual inf
 
 The project won the Second Prize of the 2nd “Greater Bay Area Cup” Guangdong, Hong Kong and Macao AI for Science Competition.
 
-Criticism from friends is welcome.  
+Data is available at the following link: http://www.aisccc.cn/database/data-details?id=125&type=resource
 
 Thank you for visting this repository.
